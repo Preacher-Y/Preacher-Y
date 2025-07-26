@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preacher-Y&theme=github-compact&hide_border=true" alt="Preacher-Y's Contribution Graph"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preacher-Y&theme=github-dark-blue&hide_border=true&timestamp=202507261600" alt="Preacher-Y's Contribution Graph"/>
 </p>
 
 <p align="center">
