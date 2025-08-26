@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preacher-Y&theme=github-compact&hide_border=true" alt="Preacher-Y's Contribution Graph"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preacher-Y&theme=github-compact&hide_border=true&v=2025-08-26T05:00Z" />
 </p>
 
 <p align="center">
