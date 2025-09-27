@@ -89,11 +89,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Preacher-Y&show_icons=true&theme=github_dark&hide_border=true" alt="Preacher-Y's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preacher-Y&theme=github-dark-blue&hide_border=true&timestamp=202509261600" alt="Preacher-Y's GitHub Streak" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preacher-Y&theme=github-dark-blue&hide_border=true&timestamp=202509271600" alt="Preacher-Y's GitHub Streak" height="165"/>
 </p>
 
 <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preacher-Y&theme=github-compact&hide_border=true&v=2025-09-26T05:00Z" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preacher-Y&theme=github-compact&hide_border=true&v=2025-09-27T05:00Z" />
 </p>
 
 <p align="center">
