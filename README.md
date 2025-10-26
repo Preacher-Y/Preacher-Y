@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Yves Sheja N. M. </h1>
+<h1 align="center">Hi there 👋, I'm Yves Sheja N M </h1>
 <p align="center">🚀 A passionate Full-Stack Developer & Tech Enthusiast | Cloud & DevOps Explorer | Problem Solver</p>
 
 ---
