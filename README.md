@@ -2,6 +2,8 @@
 <h1 align="center">Hi there 👋, I'm Yves Sheja N M </h1>
 <p align="center">🚀 A passionate Full-Stack Developer & Tech Enthusiast | Cloud & DevOps Explorer | Problem Solver</p>
 
+<img src="https://camo.githubusercontent.com/9fb48ab9d618ffb0ff18b01b99d2ccf1bd6f8f02ffd816ef4a9e94fe4b3a01f6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f33313637323739312f66696c652f6f726967696e616c2d37643539393465316631653531353836646263386537303339383135313163622e676966"/>
+
 ---
 
 ## 🌐 Connect With Me
@@ -90,14 +92,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Preacher-Y&show_icons=true&theme=github_dark&hide_border=true" alt="Preacher-Y's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Preacher-Y&theme=github-dark-blue&hide_border=true&timestamp=202511011600" alt="Preacher-Y's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Preacher-Y&theme=github-compact&hide_border=true&timestamp=202511011600" />
-</p>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Motivational Quote"/>
 </p>
 
 ---
