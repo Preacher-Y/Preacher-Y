@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi there 👋, I'm Yves Sheja N M </h1>
-<p align="center">🚀 A passionate Full-Stack Developer & Tech Enthusiast | Cloud & DevOps Explorer | Problem Solver</p>
+<p align="center">A passionate Full-Stack Developer & Tech Enthusiast | Cloud & DevOps Explorer | Problem Solver</p>
 
 <img src="https://camo.githubusercontent.com/9fb48ab9d618ffb0ff18b01b99d2ccf1bd6f8f02ffd816ef4a9e94fe4b3a01f6/68747470733a2f2f63646e2e6472696262626c652e636f6d2f7573657275706c6f61642f33313637323739312f66696c652f6f726967696e616c2d37643539393465316631653531353836646263386537303339383135313163622e676966"/>
 
