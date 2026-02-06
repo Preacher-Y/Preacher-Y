@@ -5,7 +5,7 @@ Full-Stack Developer  |  Cloud & DevOps Explorer  |  Problem Solver
 
 ---
 
-## About Me
+<h2 align="center"> About Me </h2>
 
 <table cellpadding="0" cellspacing="0">
 <tr>
@@ -29,7 +29,7 @@ Currently focused on:
 </table>
 
 
-## Core Tech Stack
+<h2 align="center">Core Tech Stack</h2>
 
 <p align="center">
   <strong>Programming Languages</strong> <br/>
@@ -63,7 +63,7 @@ Currently focused on:
 </table>
 
 
-## GitHub Stats
+<h2 align="center"> GitHub Stats </h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Preacher-Y&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
@@ -71,7 +71,7 @@ Currently focused on:
 </p>
 
 
-## Connect With Me
+<h2 align="center"> Connect With Me </h2>
 
 <p align="center">
   <a href="https://instagram.com/s_yves__">
