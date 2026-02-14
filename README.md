@@ -66,10 +66,10 @@ Currently focused on:
 <h2 align="center"> GitHub Stats </h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Preacher-Y&show_icons=true&theme=github_dark&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Preacher-Y&layout=compact&theme=github_dark&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Preacher-Y&theme=github-dark-blue&hide_border=true" height="165"/>
 </p>
 
+[](https://git.io/streak-stats)
 
 <h2 align="center"> Connect With Me </h2>
 
