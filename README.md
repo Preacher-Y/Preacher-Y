@@ -63,11 +63,11 @@ Currently focused on:
 </table>
 
 
-<h2 align="center"> GitHub Stats </h2>
+<!-- <h2 align="center"> GitHub Stats </h2> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Preacher-Y&theme=github-dark-blue&hide_border=true&timestamp=202602182200" height="165"/>
-</p>
+</p> -->
 
 [](https://git.io/streak-stats)
 
