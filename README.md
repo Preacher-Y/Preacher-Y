@@ -33,6 +33,7 @@ Currently focused on:
 
 <p align="center">
   <strong>Programming Languages</strong> <br/>
+  <br/>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&background=transparent" />
 </p>
 
@@ -40,10 +41,12 @@ Currently focused on:
 <tr>
 <td width="50%" align="center" valign="top">
 <strong>Frontend</strong><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,flutter&background=transparent" />
 </td>
 <td width="50%" align="center" valign="top">
 <strong>Backend</strong><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,spring,fastapi&background=transparent" />
 </td>
 </tr>
@@ -53,10 +56,12 @@ Currently focused on:
 <tr>
 <td width="50%" align="center" valign="top">
 <strong>Databases</strong><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,firebase,supabase&background=transparent" />
 </td>
 <td width="50%" align="center" valign="top">
 <strong>Cloud & DevOps</strong><br/>
+<br/>
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,nginx,git,github&background=transparent" />
 </td>
 </tr>
