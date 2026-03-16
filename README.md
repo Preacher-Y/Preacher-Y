@@ -33,11 +33,9 @@ Currently focused on:
 <h2 align="center">Core Tech Stack</h2>
 
 <p align="center">
-  
   <strong>Programming Languages</strong> <br/>
   <br/>
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,cpp,php&background=transparent" />
-  
 </p>
 
 <table width="100%" cellpadding="0" cellspacing="0" align="center" border="0">
