@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yves Sheja N M 👋</h1>
 
 <p align="center">
-Full-Stack Developer  |  Cloud & DevOps Explorer  |  Problem Solver
+Full-Stack Developer   |   Cloud & DevOps Explorer   |   Problem Solver
 </p>
 
 ---
