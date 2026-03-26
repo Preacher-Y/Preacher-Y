@@ -10,7 +10,6 @@ Full-Stack Developer   |   Cloud & DevOps Explorer   |   Problem Solver
 <table cellpadding="0" cellspacing="0">
 <tr>
 <td width="60%" valign="top">
-
 I build <strong>end-to-end applications</strong>, from clean frontend interfaces to scalable backend systems and cloud deployments.  
 I care about <strong>code clarity</strong>, <strong>system design</strong>, and <strong>solving real problems</strong>, not collecting frameworks.
 
