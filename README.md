@@ -16,7 +16,7 @@ I build <strong>end-to-end applications</strong>, from clean frontend interfaces
 I care about <strong>code clarity</strong>, <strong>system design</strong>, and <strong>solving real problems</strong>, not collecting frameworks.
 
 Currently focused on:
-- Full-stack web development
+- Full-stack software development
 - Cloud & DevOps fundamentals
 - Writing maintainable, production-ready code
 
